@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbass787&label=Profile%20views&color=8020ac&style=flat" alt="gbass787" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbass787" alt="gbass787" /></a> </p>
-
 - 🔭 I’m currently working on [BookingPR](https://github.com/gbass787/BookingPR/)
 
 - 🌱 I’m currently learning **React, Firebase, PHP, MySQL, Unreal**
